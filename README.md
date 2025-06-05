@@ -1,2 +1,2 @@
-# HIVBackCalc_Migrants_demo
-repository with demo code on back-calculation in migrants
+# Demo code for HIV-backcalculation modeling in migrant populations 
+currently under review at PlosOne
